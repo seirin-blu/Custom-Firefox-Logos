@@ -11,4 +11,9 @@ How to change on WINDOWS 10:
 I’m not entirely sure how to do this on a windows machine correctly so here are two youtube links
 https://www.youtube.com/watch?v=es8bZuY2JCs
 https://www.youtube.com/watch?time_continue=49&v=DyrczyV03yQ&feature=emb_logo
- 
+
+How to change on LINUX (KDE Plasma):
+1. place the chosen images in $HOME/.local/share/icons
+2. right click on the application launcher then click on edit applications...
+3. find the firefox entry and click on it's icon
+4. choose 'Other icons: Browse' and search for the image and click open
