@@ -6,7 +6,7 @@ THE FIREFOX LOGO IS COPYRIGHTED BY MOZILLA. THESE IMAGES ARE TO BE USED ONLY FOR
 How to change on MACOS:
 1. Right click on Firefox in the applications tab of finder
 2. Click get info
-3. Open the photo with preview
+3. Open the downloaded icon with preview
 4. Select all with Cmd+A
 5. Copy with Cmd+C
 6. Select the icon in the top right corner by clicking on it
