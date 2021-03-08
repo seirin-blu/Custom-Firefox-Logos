@@ -16,5 +16,6 @@ How to change on MACOS:
 How to change on WINDOWS 10:
 I’m not entirely sure how to do this on a windows machine correctly so here are two youtube links
 https://www.youtube.com/watch?v=es8bZuY2JCs
+
 https://www.youtube.com/watch?time_continue=49&v=DyrczyV03yQ&feature=emb_logo
  
