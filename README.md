@@ -11,7 +11,7 @@ How to change on MAC:
 5. Copy with Cmd+C
 6. Select the icon in the top right corner by clicking on it
 7. Paste with Cmd+V
-8. Run 'killall Dock' in the terminal to update the icon in the dock
+8. Run `killall Dock` in the terminal to update the icon in the dock
 
 How to change on WINDOWS 10:
 I’m not entirely sure how to do this on a windows machine correctly so here are two youtube links
